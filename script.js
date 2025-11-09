@@ -1,5 +1,5 @@
 // ⭐⭐ 이 부분을 1단계 C에서 복사한 '웹 앱 URL'로 교체해야 합니다! ⭐⭐
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwf1rynvCiZAFfxADChE-J2J6tZbNKNToni_t8DMDFOadsZE1saboQo_RuD4WxGifJnVw/exec'; 
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyb1mz_1MqHZEXY8eqmSVDvGALaWCQTTARLf2v5Za2nZKCIKRpptCqT7RgllBZR1SAmtg/exec'; 
 
 const submitBtn = document.getElementById('submitBtn');
 const emotionLog = document.getElementById('emotionLog');
